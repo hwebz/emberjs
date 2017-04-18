@@ -1,0 +1,20 @@
+Using Firebase as Database Storage. (https://firebase.com)
+Create database: emtasks
+
+Add "Ember Inspector" Chrome extension.
+
+Install emberjs
+npm install -g ember-cli
+
+Create new emberjs app
+ember new emtasks
+
+Add "liveReload": false to .ember-cli file
+
+Run cmd: "ember serve" to start the server.
+
+Create new route using cmd: "ember g route tasks"
+Create new route using cmd: "ember g route tasks/new"
+
+Create new controller: "ember g controller tasks"
+Create new controller: "ember g controller tasks/new"
